@@ -1,0 +1,4 @@
+Todo componente Angular consiste em:
+-Um template HTML;
+-Uma classe TS que define seu comportamento;
+-Um CSS que define seu estilo.
